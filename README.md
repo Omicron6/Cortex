@@ -16,7 +16,7 @@
 
 ---
 
-### 🏆 Karnataka State Police Datathon 2026
+###  Karnataka State Police Datathon 2026
 
 ### Track 1 — Intelligent Conversational AI for KSP Crime Database
 
