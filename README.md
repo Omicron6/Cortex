@@ -871,9 +871,9 @@ Create
 ```
 
 ```env
-SCRB_BUCKET_URL=https://imports2-development.zohostratus.in
+SCRB_BUCKET_URL=https://<your-public-stratus-bucket>
 
-CORTEX_RUNTIME_URL=https://cortex-60080078691.development.catalystserverless.in/server/cortex_runtime
+CORTEX_RUNTIME_URL=https://<your-catalyst-runtime-url>
 
 PORT=3000
 ```
